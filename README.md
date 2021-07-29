@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Sandile Mhlophe 👋
+
+🔭 I’m currently working as Freelancer Software Developer & Designer
+🌱 I’m currently learning Java and React JS
+💬 Ask me about anything related to Web Development
+📫 How to reach me on gmail sandilemhlophe9@gmail.com
+
 
 <!--
 **mhlophe/mhlophe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
